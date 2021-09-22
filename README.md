@@ -1,5 +1,6 @@
 # TunnelMan
-2D game developed as the final project of CS32 at UCLA
+2D game developed as the final project of CS32 at UCLA.
+
 StudentWorld.h, StudentWorld.cpp, Actor.h, and Actor.cpp were made by me. The rest of the files were provided.
 
 Game Description:
